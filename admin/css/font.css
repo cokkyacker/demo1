@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('../fonts/iconfont.eot');
+  src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/iconfont.woff') format('woff'),
+  url('../fonts/iconfont.ttf') format('truetype'),
+  url('../fonts/iconfont.svg#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.btw{
+  width: 40px;
+  height: 20px;
+  text-align: center;
+  background: #4476A7;
+  border: 2px #2F4056;
+  border-radius: 5px;
+
+}
+
+.btw1{
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+
+}
